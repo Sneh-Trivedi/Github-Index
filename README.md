@@ -4,6 +4,7 @@
 - [Project 1](https://github.com/Sneh-Trivedi/Music-Genre-Classification) - Music Genre Classification
 - [Project 2](https://github.com/Sneh-Trivedi/MNIST-Digit-Classification) - MNIST Digit Classification
 - [Project 3](https://github.com/Sneh-Trivedi/Stock-Price-Prediction) - Stock Price Prediction
+- [Project 4](https://github.com/Sneh-Trivedi/Sentiment-Spectrum-Analyzer) - Sentiment Spectrum Analyzer
 
 ### 📊 Group Projects
 - [Project 1](https://github.com/Sneh-Trivedi/AI_Virtual_Input_Devices) - AI Virtual Input Devices
