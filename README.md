@@ -9,6 +9,7 @@
 ### 📊 Group Projects
 - [Project 1](https://github.com/Sneh-Trivedi/AI_Virtual_Input_Devices) - AI Virtual Input Devices
 - [Project 2](https://github.com/Sneh-Trivedi/Home-Price-Analysis-And-Prediction) - Home Price Analysis and Prediction
+- [Project 3](https://github.com/Sneh-Trivedi/Covid19-Tracker-India) - COVID 19 Tracker for India
 
 ### 🛡️ IEEE Student Branch
 - [Project 1](https://github.com/Sneh-Trivedi/DOGM_IEEE_BVM) - Desitiny of Game Makers
