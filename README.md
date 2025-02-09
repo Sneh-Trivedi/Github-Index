@@ -5,6 +5,7 @@
 - [Project 2](https://github.com/Sneh-Trivedi/MNIST-Digit-Classification) - MNIST Digit Classification
 - [Project 3](https://github.com/Sneh-Trivedi/Stock-Price-Prediction) - Stock Price Prediction
 - [Project 4](https://github.com/Sneh-Trivedi/Sentiment-Spectrum-Analyzer) - Sentiment Spectrum Analyzer
+- [Project 5](https://github.com/Sneh-Trivedi/Implementation-of-Energy-Efficient-ASCON80pq-on-Chipwhisperer-Nano-) - Implementation and optimization of the ASCON-80pq cryptographic algorithm on the ChipWhisperer Nano platform
 
 ### 📊 Group Projects
 - [Project 1](https://github.com/Sneh-Trivedi/AI_Virtual_Input_Devices) - AI Virtual Input Devices
